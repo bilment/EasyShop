@@ -56,6 +56,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Demo
 
+-Web demonstration ![EasyShopWeb.png](imgs/EasyShopWeb.png)
 -Postman demonstration ![PostmanDemo.png](imgs/PostmanDemo.png)
 
 
