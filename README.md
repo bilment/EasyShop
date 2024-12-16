@@ -2,9 +2,9 @@
 
 ## Description of the Project
 
-The Car Dealership Management System is a Java-based application designed to streamline the management of car dealership inventory and operations. 
-It provides functionalities for managing vehicle categories, searching for products, and handling administrative tasks like adding, updating, and deleting vehicles and categories. 
-The project integrates Spring Boot for REST API development and uses a MySQL database for data persistence.
+EasyShop is a fully functional e-commerce website with a Spring Boot API backend and a MySQL database for data storage. 
+It allows users to log in, browse products in various categories and prices, add them to a shopping cart, and check out to order the products. 
+The project involves fixing existing bugs in the API code and implementing new features, all while ensuring the backend functions smoothly.
 
 
 ## User Stories
