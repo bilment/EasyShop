@@ -1,4 +1,4 @@
-# Project Title
+# EasyShop Capstone Project
 
 ## Description of the Project
 
