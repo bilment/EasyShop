@@ -64,10 +64,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Outline potential future enhancements or functionalities you might consider adding:
 
-- Enhancing search capabilities with advanced filters like mileage or vehicle condition.
-- Adding vehicle filtering options based on price, mileage, or year.
-- Implementing a graphical user interface (GUI) for an enhanced user experience.
-- Adding user authentication and role-based access control for improved security.
+Future improvements include adding payment integration, order tracking, advanced search filters, and inventory management. 
+Additionally, mobile support, security upgrades, and performance optimizations are planned.
 
 ## Resources
 
