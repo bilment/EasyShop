@@ -64,8 +64,9 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Outline potential future enhancements or functionalities you might consider adding:
 
-Future improvements include adding payment integration, order tracking, advanced search filters, and inventory management. 
-Additionally, mobile support, security upgrades, and performance optimizations are planned.
+- Payment Integration = Integrate secure payment gateways like PayPal, Stripe, or credit card processing to enable seamless transactions.
+- Order Management System = Add functionalities for order tracking, status updates (e.g., pending, shipped, delivered), and email notifications for order confirmations.
+- Advanced Product Search and Filters = Implement advanced filters such as sorting by popularity, reviews, or new arrivals.
 
 ## Resources
 
