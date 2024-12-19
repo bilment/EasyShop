@@ -53,6 +53,7 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Spring Boot: For REST API development.
 - MySQL: For database management.
 - Maven: For dependency management.
+- Postman: For testing and documenting REST APIs.
 
 ## Demo
 
@@ -74,6 +75,7 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 - https://yearup.brightspace.com/d2l/home
 - https://www.w3schools.com/java/
+- https://github.com/RayMaroun
 
 ## Team Members
 
@@ -84,4 +86,4 @@ List resources such as tutorials, articles, or documentation that helped you dur
 Express gratitude towards those who provided help, guidance, or resources:
 
 - Thank you to Raymond for continuous support and guidance.
-- A special thanks to Ekrem for their dedication and teamwork.
+- A special thanks to Ekrem Alp for their dedication and teamwork.
